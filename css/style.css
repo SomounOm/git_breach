@@ -1,0 +1,12 @@
+ul{
+    background: rgb(61, 57, 57);
+    list-style: none;
+    display: flex;
+    width: auto;
+}
+li{
+    color: #f0f8ff;
+    font-family: sans-serif;
+    margin-right: 20px;
+
+}
